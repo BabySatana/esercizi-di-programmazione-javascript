@@ -35,6 +35,4 @@ var RemainingSeconds = sec-SumSeconds;
 
 
 
-
-
 console.log(`le ore sono ${totH}, i minuti sono ${RemainingMin} e i secondi rimasti sono ${RemainingSeconds}`);
